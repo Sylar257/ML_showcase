@@ -3000,7 +3000,7 @@ input, select, textarea {
 			-webkit-flex-direction: row-reverse;
 			-ms-flex-direction: row-reverse;
 			flex-direction: row-reverse;
-			background-color: #149b79;
+			background-color: #1f77aa;
 		}
 
 			.spotlights > section:nth-child(2n) > .content {
@@ -3077,7 +3077,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #58049c;
+			background-color: #8ea9e8;
 		}
 
 			.spotlights2 > section > .image {
@@ -3139,7 +3139,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #3538f7;
+				background-color: #4d5791;
 			}
 
 				.spotlights2 > section:nth-child(2n) > .content {
@@ -3216,7 +3216,7 @@ input, select, textarea {
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #3e9abe;
+			background-color: #ec8d81;
 		}
 
 			.spotlights3 > section > .image {
@@ -3278,7 +3278,7 @@ input, select, textarea {
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #333856;
+				background-color: #f04832;
 			}
 
 				.spotlights3 > section:nth-child(2n) > .content {
