@@ -2938,7 +2938,7 @@ input, select, textarea {
 		-webkit-flex-direction: row;
 		-ms-flex-direction: row;
 		flex-direction: row;
-		background-color: #3e9abe;
+		background-color: #54b4da;
 	}
 
 		.spotlights > section > .image {
@@ -3000,7 +3000,7 @@ input, select, textarea {
 			-webkit-flex-direction: row-reverse;
 			-ms-flex-direction: row-reverse;
 			flex-direction: row-reverse;
-			background-color: #12886a;
+			background-color: #149b79;
 		}
 
 			.spotlights > section:nth-child(2n) > .content {
@@ -3836,12 +3836,12 @@ input, select, textarea {
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
 			pointer-events: none;
-			background-color: #242943;
+			background-color: #242943; /*main-page background color*/
 			content: '';
 			display: block;
 			height: 100%;
 			left: 0;
-			opacity: 0.85;
+			opacity: 0.75;
 			position: absolute;
 			top: 0;
 			width: 100%;
@@ -4015,7 +4015,7 @@ input, select, textarea {
 /* Main */
 
 	#main {
-		background-color: #2a2f4a;
+		background-color: #2a2f4a;  /* section-page background color */
 	}
 
 		#main > * {
