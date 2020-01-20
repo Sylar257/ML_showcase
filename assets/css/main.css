@@ -3010,7 +3010,7 @@ input, select, textarea {
 				align-items: flex-end;
 			}
 
-	@media screen and (max-width: 1680px) {
+	@media screen and (max-width: 1920px) {
 
 		.spotlights > section > .image {
 			width: 40%;
@@ -3149,7 +3149,7 @@ input, select, textarea {
 					align-items: flex-end;
 				}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: 1920px) {
 
 			.spotlights2 > section > .image {
 				width: 40%;
@@ -3288,7 +3288,7 @@ input, select, textarea {
 					align-items: flex-end;
 				}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: 1920px) {
 
 			.spotlights3 > section > .image {
 				width: 40%;
@@ -3427,7 +3427,7 @@ input, select, textarea {
 				align-items: flex-end;
 			}
 
-	@media screen and (max-width: 1680px) {
+	@media screen and (max-width: 1920px) {
 
 		.spotlights4 > section > .image {
 			width: 40%;
